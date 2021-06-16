@@ -1,0 +1,40 @@
+h2{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+.index{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: grey;
+}
+
+.links{
+    color: blue;
+}
+
+.anchor1{
+    text-align: center;
+    color: blue;
+    font-size: 12px;
+}
+
+.anchor2{
+    text-align: center;
+    color: blue;
+    font-size: 12px;
+}
+
+.about{
+    color: white;
+}
+
+.contact{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
